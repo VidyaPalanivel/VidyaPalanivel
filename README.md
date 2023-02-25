@@ -4,7 +4,7 @@ I am Vidya and I'm a software developer working in Chennai. I'm passionate about
 
 ## ⚡🙋‍ Something About Me !
 - 🔭 I’m currently working on an application that processes huge amounts of financial data using Apache Spark.
-- 🌱 I’m currently learning TypeScript and Angular.
+- 🌱 I’m currently started learning TypeScript and Angular.
 - 👯 I’m in love with technologies.
 - 💬 Ask me about .NET, Algorithms, Data strutures and Apache Spark.
 - 📫 How to reach me: Just say Hi! 🤗 through <a href="http://www.linkedin.com/in/vidyapalanivel" target="_blank"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
